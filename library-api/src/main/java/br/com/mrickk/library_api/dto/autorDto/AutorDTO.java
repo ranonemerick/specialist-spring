@@ -1,4 +1,4 @@
-package br.com.mrickk.library_api.dto;
+package br.com.mrickk.library_api.dto.autorDto;
 
 import br.com.mrickk.library_api.model.Autor;
 
